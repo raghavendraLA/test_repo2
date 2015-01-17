@@ -1,1 +1,5 @@
 Text 1 into master
+
+text 2 into branch 1
+
+text 3 into branch 2
